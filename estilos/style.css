@@ -88,6 +88,15 @@ header {
     padding-left: 10.8rem;
 }
 
+.Proximamente h1 {
+    text-align: center;
+    background-color: red;
+    color: #ffffff;
+    border-radius: 1rem;
+    padding: 0.4rem;
+    margin-bottom: 5rem;
+}
+
 footer {
     background-color: #302e2ed2;
     padding: 1rem 0.5rem;
