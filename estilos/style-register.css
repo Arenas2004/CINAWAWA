@@ -19,6 +19,8 @@ main {
 }
 
 form {
+    padding:4rem 10rem;
+    background-color: black;
     display: flex;
     flex-direction: column;
 }
