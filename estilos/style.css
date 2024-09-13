@@ -18,6 +18,9 @@ main {
     align-items: center;
     flex-wrap: wrap;
 }
+.navigation a{
+    font-size: 24px; /* Esto pa cambiar tamaño*/ 
+}
 
 .navigation ul {
     margin: 0;
@@ -103,6 +106,11 @@ footer {
     color: #ffffff;
     text-align: left;
     padding-left: 5rem;
+}
+
+/*banner*/
+.Banner-index {
+    padding: 2rem 22rem;
 }
 
 

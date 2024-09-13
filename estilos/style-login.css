@@ -17,8 +17,9 @@ main {
 .inicio-secion {
  text-align: center;
  align-items: center;
- padding: 2rem;
+ padding: 12rem;
  padding-bottom: 31rem;
+
 }
     .inicio-secion h1{
         border-radius: 2rem;
@@ -31,6 +32,12 @@ main {
     text-align: center;
     list-style: none;
         
+}
+
+
+
+.logo a {
+    font-size: 24px;
 }
 
 ul {
